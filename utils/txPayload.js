@@ -65,6 +65,8 @@ export default class txConfirmation {
                         }
                     } catch (error) {
                         this.logger.info('An error occurred while getting txn status.');
+                        flag = 1;
+                        break;                        
                     }
 
                     await new Promise(resolve => setTimeout(resolve, 2 * 1000));
