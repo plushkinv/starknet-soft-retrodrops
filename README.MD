@@ -1,9 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=25&pause=1000&color=09F702&width=435&lines=Soft+for+StarkNet+retrodrop)](https://git.io/typing-svg)
+# Автор
+PLushkin https://t.me/plushkin_blog        
+
+**На чай с плюшками автору:**
+Полигон, БСК, Арбитрум - любые токены - `0x79a266c66cf9e71Af1108728e455E0B1D311e95E`
+
+Трон TRC-20 только USDT, остальное не доходит - `TEZG4iSmr31wWnvBixKgUN9Aax4bbgu1s3`
 
 # What do I need to run the software?
 In order for the software to start working, you need to:
 - Download node js Hydrogen from the official website
-- Download the project folder `git clone https://github.com/SYBIL-MAFIA/starknet-soft-retrodrops`
+- Download the project folder `git clone https://github.com/plushkinv/starknet-soft-retrodrops`
 - Go to project folder `cd starknet-soft-retrodrops`
 - Install all dependencies by going to the project folder and running the `npm install` command
 - Have ETH on your wallet or on your OKX account
@@ -16,4 +22,4 @@ In order for the software to start working, you need to:
 
 ### Support / Qs
 `RU Article:`  https://teletype.in/@retrodrop.tools/starknet-soft
-`Telegram:` https://t.me/retrodropTools
+`Telegram:` https://t.me/plushkin_chat
