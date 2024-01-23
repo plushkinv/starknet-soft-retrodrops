@@ -1,4 +1,4 @@
-# Автор
+# Автор форка ;)
 PLushkin https://t.me/plushkin_blog        
 
 **На чай с плюшками автору:**
